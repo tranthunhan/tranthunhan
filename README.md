@@ -5,7 +5,11 @@ Through projects including UTS Motorsports Autonomous, the Warman Challenge robo
 My long-term goal is to work in robotics, automation, mechanical design, or product development, where careful design, analysis, prototyping, and continuous improvement are central to the work.
 
 ## Socials:
-![Discord](https://img.shields.io/badge/Discord-dangstee-%237289DA.svg?logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naanlad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/nhandang03) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naandang03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nhandang03)
+![Discord](https://img.shields.io/badge/Discord-dangstee-%237289DA.svg?logo=discord&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naanlad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhandang03)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naandang03)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nhandang03)
 
 ## Tech Stack:
 
