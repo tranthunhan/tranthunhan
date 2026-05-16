@@ -19,22 +19,21 @@ GitHub: https://github.com/tranthunhan
 - [UTS Motorsports Autonomous Components](https://github.com/tranthunhan/uts-motorsports-autonomous-components)  
   CAD and fabrication work for autonomous vehicle hardware and sensor/electronics mounting components.
 
-- [Warman Challenge Robot](https://github.com/tranthunhan/warman-challenge-robot)  
-  Student robot project involving mechanism design, ball handling, retention/release, prototyping, and testing.
-
-- [Reverse Engineering LEGO 4x2 Brick](https://github.com/tranthunhan/reverse-engineering-lego-4x2)  
-  Additive manufacturing project using photogrammetry, Blender mesh repair, CAD reconstruction, slicing, and 3D printing.
-
 - [Homemade Power Supply](https://github.com/tranthunhan/homemade-power-supply)  
   Personal electronics project involving an adjustable buck/boost power supply build.
 
+- [Audio Amplifier](https://github.com/tranthunhan/audio-amplifier)  
+  Personal electronics project documenting an audio amplifier build.
+
+- [Additive Manufacturing Plier Project](https://github.com/tranthunhan/additive-manufacturing-plier-project)  
+  Additive manufacturing project focused on CAD modelling, design-for-additive-manufacturing, slicing, and printed part evaluation.
+
 ## Socials
 
-![Discord](https://img.shields.io/badge/Discord-dangstee-%237289DA.svg?logo=discord&logoColor=white)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naanlad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhandang03)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naandang03)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nhandang03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naanlad)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/naandang03)
 
 ## Technical Toolkit
 
@@ -74,6 +73,6 @@ GitHub: https://github.com/tranthunhan
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
