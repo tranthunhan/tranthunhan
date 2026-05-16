@@ -4,9 +4,8 @@ Mechanical Engineering student at the University of Technology Sydney with inter
 
 I enjoy working at the intersection of mechanical design, electronics, software, and fabrication, especially where physical systems need to be designed, tested, and improved through iteration.
 
-Portfolio: Coming soon!  
+Portfolio: Coming soon!
 LinkedIn: https://www.linkedin.com/in/nhandang03  
-GitHub: https://github.com/tranthunhan  
 
 ## Featured Projects
 
