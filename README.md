@@ -18,7 +18,7 @@ I am building depth in:
 - sensing-enabled inspection and mechatronic systems
 - cobotics, HRI, and physical robot test platforms
 - product-style mechanical subsystem design
-- future research interests in smart mechanical systems, vibration/condition monitoring, and digital-twin-informed design
+- research interests in smart mechanical systems, vibration/condition monitoring, and digital-twin-informed design
 
 ---
 
@@ -39,7 +39,7 @@ I am building depth in:
 **Prototyping:** 3D printing, fabrication, component fitting, iterative testing  
 **Robotics/mechatronics:** Arduino, Raspberry Pi, motors, drivers, sensors, camera integration  
 **Analysis/tools:** MATLAB, Simulink, ANSYS, Python, Excel, Power BI  
-**Documentation:** GitHub, technical reports, build logs, design records
+**Documentation:** GitHub, technical reports, build logs, design records  
 
 ---
 
