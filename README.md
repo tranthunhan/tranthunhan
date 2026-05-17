@@ -18,12 +18,6 @@ LinkedIn: https://www.linkedin.com/in/nhandang03
 - [UTS Motorsports Autonomous Components](https://github.com/tranthunhan/uts-motorsports-autonomous-components)  
   CAD and fabrication work for autonomous vehicle hardware and sensor/electronics mounting components.
 
-- [Homemade Power Supply](https://github.com/tranthunhan/homemade-power-supply)  
-  Personal electronics project involving an adjustable buck/boost power supply build.
-
-- [Audio Amplifier](https://github.com/tranthunhan/audio-amplifier)  
-  Personal electronics project documenting an audio amplifier build.
-
 - [Additive Manufacturing Plier Project](https://github.com/tranthunhan/additive-manufacturing-plier-project)  
   Additive manufacturing project focused on CAD modelling, design-for-additive-manufacturing, slicing, and printed part evaluation.
 
@@ -75,3 +69,6 @@ LinkedIn: https://www.linkedin.com/in/nhandang03
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+*Layout inspired by [John-A-Chen](https://github.com/John-A-Chen)*
