@@ -1,35 +1,35 @@
 # Nhan Dang
 
-Mechanical Engineering (Honours) student at the University of Technology Sydney.
+Final-semester Bachelor of Engineering (Honours) Mechanical Engineering student at the University of Technology Sydney.
 
-I use this GitHub profile as a public engineering logbook for mechanical design, robot hardware, CAD-led prototyping, sensing-enabled systems, and product-style subsystem development.
+I use this GitHub profile to document mechanical engineering projects across CAD, robot hardware, prototyping, sensing integration, testing, and technical documentation.
 
 Portfolio: https://tranthunhan.github.io  
 LinkedIn: https://www.linkedin.com/in/nhandang03  
 
 ---
 
-## Current Direction
+## Current Focus
 
 I am building depth in:
 
+- mechanical design and CAD-led product development
 - robot hardware and compact mechanical packaging
-- CAD-led design, prototyping, fabrication, and testing
-- sensing-enabled inspection and mechatronic systems
-- cobotics, HRI, and physical robot test platforms
-- product-style mechanical subsystem design
-- research interests in smart mechanical systems, vibration/condition monitoring, and digital-twin-informed design
+- prototyping, fabrication, assembly, and testing
+- sensing-enabled mechanical and mechatronic systems
+- technical documentation and public project evidence
+- future research interests in smart mechanical systems, vibration, system monitoring, and measured system behaviour
 
 ---
 
-## Engineering Field Notes
+## Selected Projects
 
 | Area | Project | Focus |
 |---|---|---|
-| Cobotics / HRI | [Kinematic Puppet / Cobot Prototyping](https://github.com/tranthunhan/kinematic-puppet-cobot-prototyping) | Physical cobot test platform, end-effector concepts, modular robot hardware |
-| Inspection Robotics | [Confined-Space Inspection Robot](https://github.com/tranthunhan/confined-space-inspection-robot) | Compact chassis packaging, wheel design, sensing/camera integration |
-| Autonomous Systems | [UTS Motorsports Autonomous Components](https://github.com/tranthunhan/uts-motorsports-autonomous-components) | CAD, sensor/electronics mounts, autonomous vehicle hardware |
-| Additive Manufacturing | [Additive Manufacturing Plier Project](https://github.com/tranthunhan/additive-manufacturing-plier-project) | DfAM, CAD modelling, slicing, prototype evaluation |
+| Cobotics and HRI | [Cobot Prototyping Platform](https://github.com/tranthunhan/kinematic-puppet-cobot-prototyping) | Physical cobot test platform, end-effector concepts, modular robot hardware |
+| Inspection Robotics | [Confined-Space Inspection Robot](https://github.com/tranthunhan/confined-space-inspection-robot) | Compact chassis packaging, wheel design, camera and sensing integration |
+| Autonomous Systems | [UTS Motorsports Autonomous Hardware](https://github.com/tranthunhan/uts-motorsports-autonomous-components) | CAD, sensor mounts, electronics packaging, autonomous vehicle hardware |
+| Additive Manufacturing | [Additive Manufacturing Plier Project](https://github.com/tranthunhan/additive-manufacturing-plier-project) | DfAM, CAD modelling, slicing, print preparation, prototype evaluation |
 
 ---
 
@@ -37,14 +37,14 @@ I am building depth in:
 
 **Mechanical design:** SolidWorks, Fusion 360, AutoCAD, Creo, engineering drawings, CAD packaging  
 **Prototyping:** 3D printing, fabrication, component fitting, iterative testing  
-**Robotics/mechatronics:** Arduino, Raspberry Pi, motors, drivers, sensors, camera integration  
-**Analysis/tools:** MATLAB, Simulink, ANSYS, Python, Excel, Power BI  
+**Robotics and mechatronics:** Arduino, Raspberry Pi, motors, drivers, sensors, camera integration  
+**Analysis and tools:** MATLAB, Simulink, ANSYS, Python, Excel, Power BI  
 **Documentation:** GitHub, technical reports, build logs, design records  
 
 ---
 
 ## Portfolio
 
-My full project archive is here:
+Full project portfolio:
 
 https://tranthunhan.github.io
